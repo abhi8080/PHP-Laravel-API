@@ -1,5 +1,5 @@
-#PHP-Laravel-API-Tutorial
-A tutorial I followed to learn Laravel framework to create a REST API.
+## PHP-Laravel-API-Tutorial
+A tutorial I followed to learn Laravel framework to create a REST API. Do a "composer install" when downloading locally.
 
 
 
